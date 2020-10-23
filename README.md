@@ -1,3 +1,6 @@
+#Origins of this repo
+This repo was cloned from [link](https://github.com/RedHatOfficial/ocp4-vsphere-upi-automation). I'm currently using a version I cloned from July because the last pull I did from the repo broke my install. I'll try the update again when I have time. 
+
 # OCP4 on VMware vSphere UPI Automation
 
 The goal of this repo is to make deploying and redeploying a new OpenShift v4 cluster a snap. Using the same repo and with minor tweaks, it can be applied to any version of OpenShift higher than the current version of 4.4.
